@@ -1,0 +1,3 @@
+rootProject.name = 'refresh_bug_test'
+include ":content"
+include ":server"
